@@ -1,5 +1,5 @@
 # Snake-Game
-A classic snake game (only on window)
+A classic snake game (only on window), written in Python
 
 # Background
 This game is a tryout project for personal training, feel free to criticize on the code or other specs
